@@ -4,3 +4,5 @@ working on GIT and GITHUB
 commands pull push commit stagging
 <br>
 branch and merge
+<br>
+editing in sub branch
